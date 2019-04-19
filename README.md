@@ -17,7 +17,7 @@
 ### 二．	正常工作截图
 #### 显卡HD520
 使用默认核显驱动，注入ID 0x1916000，除显存没有更改为2048MB，其余工作正常。<br>
-![image](https://github.com/MosherET/Lenovo-ideapad310s-14isk-Hackintosh/tree/master/Images/1-HD520.png) 
+![image](http://github.com/MosherET/Lenovo-ideapad310s-14isk-Hackintosh/raw/master/Images//1-HD520.png) 
 #### 声卡ALC236
 使用AppleALC1.3.6 注入ID 3，内置扬声器和耳机都工作正常。<br>
 ![image](https://github.com/MosherET/Lenovo-ideapad310s-14isk-Hackintosh/tree/master/Images/2-Audio.1.png)<br>
