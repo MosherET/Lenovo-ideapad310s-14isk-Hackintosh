@@ -17,33 +17,33 @@
 ### 二．	正常工作截图
 #### 显卡HD520
 使用默认核显驱动，注入ID 0x1916000，除显存没有更改为2048MB，其余工作正常。<br>
-![image](http://github.com/MosherET/Lenovo-ideapad310s-14isk-Hackintosh/Images/1-HD520.png) 
+![image](https://github.com/MosherET/Lenovo-ideapad310s-14isk-Hackintosh/tree/master/Images/1-HD520.png) 
 #### 声卡ALC236
 使用AppleALC1.3.6 注入ID 3，内置扬声器和耳机都工作正常。<br>
-![image](http://github.com/MosherET/Lenovo-ideapad310s-14isk-Hackintosh/Images/2-Audio.1.png)<br>
-![image](http://github.com/MosherET/Lenovo-ideapad310s-14isk-Hackintosh/Images/2-Audio.2.png)<br>
-![image](http://github.com/MosherET/Lenovo-ideapad310s-14isk-Hackintosh/Images/2-Audio.3.png)<br>
-![image](http://github.com/MosherET/Lenovo-ideapad310s-14isk-Hackintosh/Images/2-Audio.4.png)<br>
+![image](https://github.com/MosherET/Lenovo-ideapad310s-14isk-Hackintosh/tree/master/Images/2-Audio.1.png)<br>
+![image](https://github.com/MosherET/Lenovo-ideapad310s-14isk-Hackintosh/tree/master/Images/2-Audio.2.png)<br>
+![image](https://github.com/MosherET/Lenovo-ideapad310s-14isk-Hackintosh/tree/master/Images/2-Audio.3.png)<br>
+![image](https://github.com/MosherET/Lenovo-ideapad310s-14isk-Hackintosh/tree/master/Images/2-Audio.4.png)<br>
 #### 键盘触摸板
 使用PS2设备默认驱动，工作正常。<br>
- ![image](http://github.com/MosherET/Lenovo-ideapad310s-14isk-Hackintosh/Images/3-chumoban.png)<br>
+ ![image](https://github.com/MosherET/Lenovo-ideapad310s-14isk-Hackintosh/tree/master/Images/3-chumoban.png)<br>
 #### USB
 使用USBPorts.kext和USBInjectAll.kext驱动，工作正常。<br>
-![image](http://github.com/MosherET/Lenovo-ideapad310s-14isk-Hackintosh/Images/4-USB.png)<br>
+![image](https://github.com/MosherET/Lenovo-ideapad310s-14isk-Hackintosh/tree/master/Images/4-USB.png)<br>
  
 #### 睡眠唤醒正常
 #### 原生电源管理正常
-![image](http://github.com/MosherET/Lenovo-ideapad310s-14isk-Hackintosh/Images/5-battery.1.png)<br>
-![image](http://github.com/MosherET/Lenovo-ideapad310s-14isk-Hackintosh/Images/5-battery.2.png)<br>
+![image](https://github.com/MosherET/Lenovo-ideapad310s-14isk-Hackintosh/tree/master/Images/5-battery.1.png)<br>
+![image](https://github.com/MosherET/Lenovo-ideapad310s-14isk-Hackintosh/tree/master/Images/5-battery.2.png)<br>
 #### 亮度调节正常
-![image](http://github.com/MosherET/Lenovo-ideapad310s-14isk-Hackintosh/Images/8-light.png)
+![image](https://github.com/MosherET/Lenovo-ideapad310s-14isk-Hackintosh/tree/master/Images/8-light.png)
 
 #### WIFi和蓝牙
 WIFI使用小米随身Wi-Fi（MI WLAN Adapter）配合RT2870驱动和Wireless Utility软件工作正常。<br>
-![image](http://github.com/MosherET/Lenovo-ideapad310s-14isk-Hackintosh/Images/6-WIFI.png)
+![image](https://github.com/MosherET/Lenovo-ideapad310s-14isk-Hackintosh/tree/master/Images/6-WIFI.png)
 
 #### 蓝牙工作正常 
-![image](http://github.com/MosherET/Lenovo-ideapad310s-14isk-Hackintosh/Images/7-buletoosh.png)
+![image](https://github.com/MosherET/Lenovo-ideapad310s-14isk-Hackintosh/tree/master/Images/7-buletoosh.png)
 ### 三．	尚未解决
 目前HD520的显存依然显示1536MB，未更改为2048MB
 HDMI未尝试，工作状态未知
