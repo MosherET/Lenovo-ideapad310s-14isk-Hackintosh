@@ -45,12 +45,12 @@ WIFI使用小米随身Wi-Fi（MI WLAN Adapter）配合RT2870驱动和Wireless Ut
 #### 蓝牙工作正常 
 ![image](https://github.com/MosherET/Lenovo-ideapad310s-14isk-Hackintosh/raw/master/Images/7-buletoosh.png)
 ### 三．	尚未解决
-目前HD520的显存依然显示1536MB，未更改为2048MB
-HDMI未尝试，工作状态未知
-其他bug待发现...
+目前HD520的显存依然显示1536MB，未更改为2048MB <br>
+HDMI未尝试，工作状态未知 <br>
+其他bug待发现... <br>
 
 ### 四．	备注
-使用黒果小兵的部落阁分享镜像
+使用黒果小兵的部落阁分享镜像 <br>
 【黑果小兵】macOS Mojave 10.14.4 18E226 正式版 with Clover 4903原版镜像
 
 ## @mos
