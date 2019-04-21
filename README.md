@@ -47,7 +47,7 @@ WIFI使用小米随身Wi-Fi（MI WLAN Adapter）配合RT2870驱动和Wireless Ut
 ![image](https://github.com/MosherET/Images/raw/master/Lenovo-ideapad310s-14isk-Hackintosh/WiFi-2.png)
 
 #### 蓝牙工作正常 
-![image](https://github.com/MosherET/Images/raw/master/Lenovo-ideapad310s-14isk-Hackintosh/Buletooth.png)
+![image](https://github.com/MosherET/Images/raw/master/Lenovo-ideapad310s-14isk-Hackintosh/Bluetooth.png)
 
 #### 内存
 ![image](https://github.com/MosherET/Images/raw/master/Lenovo-ideapad310s-14isk-Hackintosh/neicun.png)
