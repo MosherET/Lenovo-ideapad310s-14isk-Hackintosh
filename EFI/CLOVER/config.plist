@@ -338,6 +338,43 @@
 			<key>ResetHDA</key>
 			<true/>
 		</dict>
+		<key>Properties</key>
+		<dict>
+			<key>PciRoot(0x0)/Pci(0x1f,0x3)</key>
+			<dict>
+				<key>layout-id</key>
+				<data>
+				AwAAAA==
+				</data>
+			</dict>
+			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
+			<dict>
+				<key>AAPL,ig-platform-id</key>
+				<data>
+				AAAWGQ==
+				</data>
+				<key>device-id</key>
+				<data>
+				FhkAAA==
+				</data>
+				<key>framebuffer-fbmem</key>
+				<data>
+				AACQAA==
+				</data>
+				<key>framebuffer-patch-enable</key>
+				<data>
+				AQAAAA==
+				</data>
+				<key>framebuffer-stolenmem</key>
+				<data>
+				AAAwAQ==
+				</data>
+				<key>framebuffer-unifiedmem</key>
+				<data>
+				AAAAgA==
+				</data>
+			</dict>
+		</dict>
 		<key>USB</key>
 		<dict>
 			<key>AddClockID</key>
@@ -612,60 +649,6 @@
 				<key>Replace</key>
 				<data>
 				AAAwAQAAkAA=
-				</data>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>eDP, port 0000, 0x191e0000, 0x19160000, 0x19260000, 0x19270000, 0x191b0000, 0x19160002, 0x19260002, 0x191e0003, 0x19260004, 0x19270004, 0x193b0005 credit syscl</string>
-				<key>Disabled</key>
-				<true/>
-				<key>Find</key>
-				<data>
-				AAAIAAIAAACYAAAAAQUJAAAEAAA=
-				</data>
-				<key>InfoPlistPatch</key>
-				<false/>
-				<key>Name</key>
-				<string>com.apple.driver.AppleIntelSKLGraphicsFramebuffer</string>
-				<key>Replace</key>
-				<data>
-				AAAIAAAEAACYAAAAAQUJAAAEAAA=
-				</data>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>Enable lid wake for 0x19260002 credit syscl/lighting/Yating Zhou</string>
-				<key>Disabled</key>
-				<true/>
-				<key>Find</key>
-				<data>
-				ChMDAAAABgAAAAAAAAAAAA==
-				</data>
-				<key>InfoPlistPatch</key>
-				<false/>
-				<key>Name</key>
-				<string>com.apple.driver.AppleIntelSKLGraphicsFramebuffer</string>
-				<key>Replace</key>
-				<data>
-				DxMDAAAABgAAAAAAAAAAAA==
-				</data>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>Enable lid wake for 0x19260004 credit syscl/lighting/Yating Zhou</string>
-				<key>Disabled</key>
-				<true/>
-				<key>Find</key>
-				<data>
-				CgsDAAAHBgADAAAABAAAAA==
-				</data>
-				<key>InfoPlistPatch</key>
-				<false/>
-				<key>Name</key>
-				<string>com.apple.driver.AppleIntelSKLGraphicsFramebuffer</string>
-				<key>Replace</key>
-				<data>
-				DwsDAAAHBgADAAAABAAAAA==
 				</data>
 			</dict>
 			<dict>
